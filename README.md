@@ -80,7 +80,7 @@
 ## 📫 Connect with Me
 
 <p>
-  <a href="https://https://www.linkedin.com/in/k-y-s-balaji-431abb2b6/">
+  <a href="https://https://linkedin.com/in/k-y-s-balaji-431abb2b6/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:katasribalaji77@gmail.com">
