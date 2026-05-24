@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KATA YUGANDHAR SRI BALAJI</h1>
-<h3 align="center">Aspiring Software Engineer • Python Developer • AI/ML & Cybersecurity Enthusiast</h3>
+<h3 align="center">Aspiring Python Backend Developer• Python Developer • AI/ML & Cybersecurity Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Syne&size=22&pause=1000&color=6450FF¢er=true&vCenter=true&width=600&lines=Python+Developer;AI+%26+ML+Explorer;Cybersecurity+Enthusiast;Future+Software+Engineer;Learning+LLMs+and+AI+Systems" alt="Typing SVG" />
@@ -80,7 +80,7 @@
 ## 📫 Connect with Me
 
 <p>
-  <a href="https://https://linkedin.com/in/k-y-s-balaji-431abb2b6/">
+  <a href="https://linkedin.com/in/k-y-s-balaji-431abb2b6/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:katasribalaji77@gmail.com">
